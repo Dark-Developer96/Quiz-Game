@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "A. Berlin",
+            "B. Madrid",
+            "C. Paris",
+            "D. Rome"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "A. Earth",
+            "B. Mars",
+            "C. Jupiter",
+            "D. Venus"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": [
+            "A. Atlantic",
+            "B. Indian",
+            "C. Pacific",
+            "D. Arctic"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": [
+            "A. William Wordsworth",
+            "B. William Shakespeare",
+            "C. Charles Dickens",
+            "D. Leo Tolstoy"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": [
+            "A. Oxygen",
+            "B. Gold",
+            "C. Silver",
+            "D. Iron"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "A. China",
+            "B. India",
+            "C. Australia",
+            "D. Japan"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is the square root of 64?",
+        "options": [
+            "A. 6",
+            "B. 8",
+            "C. 10",
+            "D. 7"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+            "A. Michelangelo",
+            "B. Leonardo da Vinci",
+            "C. Pablo Picasso",
+            "D. Van Gogh"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": [
+            "A. Oxygen",
+            "B. Hydrogen",
+            "C. Carbon Dioxide",
+            "D. Nitrogen"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which programming language is this quiz written in?",
+        "options": [
+            "A. Java",
+            "B. Python",
+            "C. C++",
+            "D. JavaScript"
+        ],
+        "answer": "B"
+    }
+]
